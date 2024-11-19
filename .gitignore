@@ -1,0 +1,8 @@
+# Exclude RStudio files
+.Rhistory
+.RData
+.Rproj.user
+
+# Exclude large data files
+/data/raw/*.fasta
+/data/raw/*.csv
